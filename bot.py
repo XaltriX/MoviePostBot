@@ -72,8 +72,8 @@ async def send_movie_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
     keyboard = [
-        [InlineKeyboardButton("𝙈𝙤𝙫𝙞𝙚 𝙂𝙧𝙤𝙪𝙥 🍿🎬", url="https://t.me/NeonGhost_Network")],
-        [InlineKeyboardButton("𝙇𝙚𝙖𝙠 𝙈𝙈𝙎 𝙑𝙞𝙙𝙚𝙤𝙨 (‿ˠ‿) 🍑👈🤤", url="https://t.me/NeonGhost_Network")],
+        [InlineKeyboardButton("𝙈𝙤𝙫𝙞𝙚 𝙂𝙧𝙤𝙪𝙥 🍿🎬", url="https://t.me/+frnRoqV3_5YzNWU0")],
+        [InlineKeyboardButton("𝙇𝙚𝙖𝙠 𝙈𝙈𝙎 𝙑𝙞𝙙𝙚𝙤𝙨 (‿ˠ‿) 🍑👈🤤", url="https://t.me/+8xrQArpgezc0YTdk")],
         [InlineKeyboardButton("𝘽𝙖𝙘𝙠𝙪𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 🔙🆙", url="https://t.me/NeonGhost_Network")]
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
